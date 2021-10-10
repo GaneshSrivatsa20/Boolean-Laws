@@ -1,7 +1,7 @@
-<b>Boolean Operators</b> use <b>AND, OR, NOT</b> to limit or expand a search. <p><b>AND</b> <i>narrows a search by requiring the results contain both of the search terms connected by AND</i>. In other words, the search results will contain search term X and search term Y.</p> <p><b>OR</b> <i>broadens a search and is usually used when searching related or similar terms.</i> In other words, the search results will contain search term X or search term Y or both.</p>
-<p><b>NOT</b><i>narrows searches by excluding sources with a specified search term.</i>In other words, the results will not contain search term X.</p>
 
----
+<b>Boolean Operators</b> use <b>AND, OR, NOT</b> to limit or expand a search. <p><b>AND</b> <i>narrows a search by requiring the results contain both of the search terms connected by AND</i>. In other words, the search results will contain search term X and search term Y.</p> <p><b>OR</b> <i>broadens a search and is usually used when searching related or similar terms.</i> In other words, the search results will contain search term X or search term Y or both.</p>
+<p><b>NOT</b><i> narrows searches by excluding sources with a specified search term.</i>In other words, the results will not contain search term X.</p>
+<hr>
 
 # Boolean-Laws
 
